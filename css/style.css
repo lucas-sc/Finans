@@ -16,3 +16,7 @@
 footer p a {
     margin: 5px 15px;
 }
+
+footer p a:hover {
+    text-decoration: none;
+}
